@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "skills": {
+    "add-app-to-server": {
+      "source": "modelcontextprotocol/ext-apps",
+      "sourceType": "github",
+      "skillPath": "plugins/mcp-apps/skills/add-app-to-server/SKILL.md",
+      "computedHash": "e9441d0b6a4eedf016903b78648e25234d5fd40e191124e1a1d1e56e71e9a4f4"
+    },
+    "banner-design": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/banner-design/SKILL.md",
+      "computedHash": "82c86217829268afd1f86e89390270e35cb3a1761854a0bbe6180929614ae022"
+    },
+    "brand": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/brand/SKILL.md",
+      "computedHash": "3c7acb846082f9e4cc873f1cf85bd57ade027206e18c7c050797f815e3a56af7"
+    },
+    "convert-web-app": {
+      "source": "modelcontextprotocol/ext-apps",
+      "sourceType": "github",
+      "skillPath": "plugins/mcp-apps/skills/convert-web-app/SKILL.md",
+      "computedHash": "9e2171bff4ea0d0cf82c8cae3ec6c600c8f3ebd41de73cc8a778ef2cd694ade0"
+    },
+    "create-mcp-app": {
+      "source": "modelcontextprotocol/ext-apps",
+      "sourceType": "github",
+      "skillPath": "plugins/mcp-apps/skills/create-mcp-app/SKILL.md",
+      "computedHash": "39f1ce1c5d4c43b8281e7e51332f9a05f4b689ddd9bf426b4833fb671237f757"
+    },
+    "design": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design/SKILL.md",
+      "computedHash": "4e0412d29df74e6153e4944b367459a28cf52e3e81c7f45c1ecf4c2a8b21907c"
+    },
+    "design-system": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design-system/SKILL.md",
+      "computedHash": "a05715299135276628f53519484e1267ec8ad111e6355a09c2da1cf66aee2cc3"
+    },
+    "migrate-oai-app": {
+      "source": "modelcontextprotocol/ext-apps",
+      "sourceType": "github",
+      "skillPath": "plugins/mcp-apps/skills/migrate-oai-app/SKILL.md",
+      "computedHash": "de7efc510078320e126b6b0af3c023d88b98e7c6498fbb8bf93b3daecde0f4d3"
+    },
+    "slides": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/slides/SKILL.md",
+      "computedHash": "c72a8bcd2ee98a7caab8f00a816c7e7ccfa46bba6682539db2186e71220155f1"
+    },
+    "ui-styling": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-styling/SKILL.md",
+      "computedHash": "c5263c6dd5078d826da829036c2abd3249685e38dae40991a4763b3157017c27"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "b0f78bc58cc5a3ac68afdf6f2de214e147b09a3f8686447cb3804a921fa198c2"
+    }
+  }
+}
